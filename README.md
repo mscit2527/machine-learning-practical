@@ -1,1 +1,2 @@
-# machine-learning-practical
+## Google Colab
+https://colab.research.google.com/
